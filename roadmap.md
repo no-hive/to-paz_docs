@@ -15,6 +15,7 @@ graph TD
     P --> I[6. launch Dapp]
     I --> L[7. roadmap expansion]
 L --> X[+ + + + +]
+C[2. complete docs] --> T[we are here] 
 
   
 
