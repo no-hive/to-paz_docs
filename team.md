@@ -11,7 +11,7 @@ I am building it solo on purpose: that's how I can ensure <mark style="color:$su
 {% hint style="success" icon="donut" %}
 ## <mark style="color:$success;">How to support the project:</mark>&#x20;
 
-&#x20;<mark style="color:$success;">-  privately:</mark> [donate me via to-paz](#user-content-fn-1)[^1]\
+&#x20;<mark style="color:$success;">-  privately:</mark> [donate via to-paz](#user-content-fn-1)[^1]\
 &#x20;<mark style="color:$success;">- publicly:</mark> no-hive.eth <mark style="color:$success;">/</mark> 0x0CA82CD58b04468C79E87B150A9b367a59885DA0
 {% endhint %}
 
