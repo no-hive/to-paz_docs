@@ -8,4 +8,4 @@
   * [Internal Tests](security/internal-tests.md)
   * [External Audits](security/external-audits.md)
 * [Team](team.md)
-* [Paz is open-source !](paz-is-open-source.md)
+* [To-paz is open-source !](paz-is-open-source.md)
