@@ -47,9 +47,9 @@ Once you understand what's it all about, things just get interesting. Let's star
 The project is going to be launched on Ethereum Mainnet + on Aztec L2 (layer for true on-chain privacy). Such a combination will help to deliver:
 
 * Ethereum Mainnet soundness;
-* Ethereum Naming System (ENS) integration;
 * private transactions on Aztec;
 * anonymous To-paz DAO voting; <mark style="color:$info;"><—</mark> [<mark style="color:$info;">what to vote for?</mark>](#user-content-fn-1)[^1]
+* Ethereum Naming System (ENS) integration;
 * Easy connection to other protocols. <mark style="color:$info;"><—</mark> [<mark style="color:$info;">where it can be used?</mark>](#user-content-fn-1)[^1]
 
 ### Protocol Architecture
