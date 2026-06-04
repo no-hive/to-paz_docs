@@ -4,7 +4,11 @@ icon: shield-check
 
 # Security
 
-#### Security is a diverse thing, so let me cover it in all detail.
+#### :construction:  this section is still under construction  :construction:
+
+Great security is the main pillar of true anonymity. To-paz team understands it and we definitely will tell your about every single code line and every single front-end pixel before we launch. \
+\
+What you will find in Security Section once it is completed:&#x20;
 
 First level of security is always its network. To-paz is built on Aztec. Find out why I consider it securest option for private transactions:
 
