@@ -62,13 +62,13 @@ Moreover, as there is no public data at all, this donation is not indexed: nobod
 
 You can also download the file and throw it to your favorite AI to chat about To-paz:&#x20;
 
-{% file src=".gitbook/assets/Frame 5(2).png" %}
+{% file src=".gitbook/assets/to-paz-briefing.md" %}
 
 Once you understand what it's all about, things just get interesting. Let's start!&#x20;
 
 ### Where To-paz will be launched?
 
-The project is going to be launched on Ethereum Mainnet + on Aztec L2 (layer for true privacy). Such a combination will help to deliver:
+The project is going to be launched on Ethereum Mainnet + on Aztec L2 (layer with native ZK[^1]). Such a combination will help to deliver:
 
 * Ethereum Mainnet soundness;
 * private transactions on Aztec;
