@@ -62,16 +62,16 @@ The project is going to be launched on Ethereum Mainnet + on Aztec L2 (layer for
 
 To correctly describe the core idea of protocol To-paz uses next words to define its users:&#x20;
 
-* <mark style="color:$success;">**paz-makers**</mark> = recipients, creators, those who have public profiles and receive the donations.
-* <mark style="color:$success;">**paz-finders**</mark> = donors, supporters, fans, those who send donations.
+* <mark style="color:blue;">**paz-makers**</mark> = recipients, creators, those who have public profiles and receive the donations.
+* <mark style="color:blue;">**paz-finders**</mark> = donors, supporters, fans, those who send donations.
 
-It seems strange we have extra words for one single protocol, but we do it to point out since the first minute: <mark style="color:$success;">To-paz is the protocol to let people support ideas that change the world for better.</mark>
+It seems strange we have extra words for one single protocol, but we do it to point out since the first minute: <mark style="color:blue;">To-paz is the protocol to let people support ideas that change the world for better.</mark>
 
 </details>
 
-1
+### Protocol Access Model
 
-Write here about the idea, about pazmakers and paz finders, about building mechanism to remain private in donation where you want to do so. Digitalisation makes true that sometimes your support for some things can become a threat for you. Paz change it. It is a concept built for people aiming for funding the right solutoins in any circumstances. We blame each other too often. Here is your zone of no blame.
+Read how we connect paz-finders to paz-makers (SPOILER: not only via DApp):
 
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
