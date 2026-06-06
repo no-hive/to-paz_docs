@@ -80,7 +80,7 @@ The project is going to be launched on Ethereum Mainnet + on Aztec L2 (layer wit
 
 To-paz runs across three layers:
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Above you can see the flow of two processes: new paz-maker account registration, and paz-finder donation to paz-maker with later withdrawal.
 
@@ -101,7 +101,7 @@ It may seem strange to coin special words for a single protocol, but we do it to
 
 Read how we connect paz-finders to paz-makers (SPOILER: not only via DApp):
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 The dApp catalog of all registered paz-makers (public stats + ENS name), or the browser extension, which detects a paz-maker's website, socials or name anywhere on the web and flags that they can be supported anonymously via To-paz.
 
