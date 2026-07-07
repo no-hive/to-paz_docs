@@ -24,7 +24,7 @@ layout:
 
 ### What is To-paz?
 
-Digitization of money is great, unless it makes your donations threaten your career, your friendships, or even your life. These days you can support almost anything online, but you can rarely be sure that no digital trace will later come back to harm you. [Read why it's important to keep your donations private.](#user-content-fn-1)[^1]
+Digitization of money is great, [unless it makes your donations](https://medium.com/@no__hive/keep-your-donations-private-and-what-happens-if-you-wont-d5386d7856d3) threaten your career, your friendships, or even your life.&#x20;
 
 <mark style="color:blue;">To-paz is a donation protocol with customizable per-field privacy</mark>: now you decide where your support visibility starts and where it ends. Check the example below to understand the core idea:&#x20;
 
@@ -60,33 +60,7 @@ Moreover, as there is no public data at all, this donation is not indexed: nobod
 
 </details>
 
-You can also download the file and throw it to your favorite AI to chat about To-paz:&#x20;
-
-{% file src=".gitbook/assets/to-paz-briefing.md" %}
-
-Once you understand what it's all about, things just get interesting. Let's start!&#x20;
-
-### Where To-paz will be launched?
-
-The project is going to be launched on Ethereum Mainnet + on Aztec L2 (layer with native ZK[^1]). Such a combination will help to deliver:
-
-* Ethereum Mainnet soundness;
-* private transactions on Aztec;
-* anonymous To-paz DAO voting; <mark style="color:$info;"><—</mark> [<mark style="color:$info;">what to vote for?</mark>](#user-content-fn-1)[^1]
-* Ethereum Name System (ENS) integration;
-* Easy connection to other protocols. <mark style="color:$info;"><—</mark> [<mark style="color:$info;">where it can be used?</mark>](#user-content-fn-1)[^1]
-
-### Protocol Architecture
-
-To-paz runs across three layers:
-
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-
-Above you can see the flow of two processes: new paz-maker account registration, and paz-finder donation to paz-maker with later withdrawal.
-
-<details>
-
-<summary>Who are <mark style="color:blue;"><strong>paz-makers</strong></mark> and <mark style="color:blue;"><strong>paz-finders</strong></mark>?</summary>
+### Who are paz-makers and paz-finders?
 
 To describe its core idea precisely, To-paz uses the following terms for its users:
 
@@ -94,16 +68,6 @@ To describe its core idea precisely, To-paz uses the following terms for its use
 * <mark style="color:blue;">**paz-finders**</mark> = donors, supporters, fans, those who send donations.
 
 It may seem strange to coin special words for a single protocol, but we do it to make one thing clear from the very first minute: <mark style="color:blue;">To-paz exists to let people support ideas that change the world for the better.</mark>
-
-</details>
-
-### Protocol Access Model
-
-Read how we connect paz-finders to paz-makers (SPOILER: not only via DApp):
-
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
-
-The dApp catalog of all registered paz-makers (public stats + ENS name), or the browser extension, which detects a paz-maker's website, socials or name anywhere on the web and flags that they can be supported anonymously via To-paz.
 
 ### Why To-paz differs from other donation options?
 
@@ -120,5 +84,3 @@ The dApp catalog of all registered paz-makers (public stats + ENS name), or the 
 | Human-readable names (ENS)     |  ✅  |  ✅  |  ❌  |
 | Quadratic funding              |  ✅  |  ❌  |  ❌  |
 | Community / DAO governance     |  ✅  |  ❌  |  ❌  |
-
-[^1]: 

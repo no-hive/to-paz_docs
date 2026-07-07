@@ -2,6 +2,7 @@
 
 * [Intro](README.md)
 * [Concept](concept.md)
+* [Architecture](architecture.md)
 * [Roadmap](roadmap.md)
 * [Security](security.md)
 * [Copy of Security](security-1/README.md)
