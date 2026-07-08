@@ -4,6 +4,12 @@ icon: map
 
 # Roadmap
 
+Even though these docs exists, both the concept and the technical implementation (the architecture) are still evolving. But I can't leave you with nothing, so below you can see what the app will look like:
+
+{% embed url="https://youtu.be/OVrPi1Y7HkQ" %}
+
+Now let's check the Roadmap.
+
 I work solo (more about it here - [team.md](team.md "mention")) so I prefer to have not a date-detailed roadmap but the pack of ideas I want to implement one day. Here it is, structured in the best possible way:
 
 **1. Complete documentation & website.**&#x20;
@@ -21,16 +27,6 @@ I work solo (more about it here - [team.md](team.md "mention")) so I prefer to h
 **7. ENS integration.** <mark style="color:$info;">// protocol logic for ownership of ENS identities verification</mark>
 
 **8. Minimal dApp & paz-maker catalog.** <mark style="color:$info;">// launch a minimal user interface</mark>
-
-<details>
-
-<summary><mark style="color:blue;">Check how dApp will probably look like</mark></summary>
-
-{% embed url="https://youtu.be/OVrPi1Y7HkQ" %}
-
-
-
-</details>
 
 **9. Testnet.** <mark style="color:$info;">// launch To-paz on Aztec testnet</mark>
 

@@ -18,8 +18,8 @@ A proper `CONTRIBUTING.md` is still a priority and already part of the [roadmap.
 
 #### <mark style="color:blue;">Protocol repository:</mark>
 
-{% embed url="https://github.com/no-hive" %}
+{% embed url="https://github.com/no-hive/to-paz" %}
 
 #### <mark style="color:blue;">Documentation repository:</mark>
 
-{% embed url="https://github.com/no-hive" %}
+{% embed url="https://github.com/no-hive/to-paz_docs" %}
